@@ -1,8 +1,8 @@
 ---
-title: Mermaid test!
+title: Product design
 subtitle: Included just for fun :)
 description: This is a post about Mermaid library.
-date: '2021-03-22'
+date: 2021-03-22T00:00:00Z
 tags:
   - tag-x
   - tag-y
