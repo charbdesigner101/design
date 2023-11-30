@@ -1,6 +1,6 @@
 ---
 title: Product design
-subtitle: Included just for fun :)
+subtitle: Blog
 description: This is a post about Mermaid library.
 date: 2021-03-22T00:00:00Z
 tags:
